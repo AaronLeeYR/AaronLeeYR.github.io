@@ -12,6 +12,7 @@ git add --all
 git commit -m "Initial commit"
 git push -u origin main
 
-https://github.com/AaronLeeYR/AaronLeeYR.github.io
+Git Repo:   https://github.com/AaronLeeYR/AaronLeeYR.github.io
+Live Site:  https://aaronleeyr.github.io/
 
 
