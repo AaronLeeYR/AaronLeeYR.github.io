@@ -1,14 +1,15 @@
 body 
-{background-color: powderblue;}
+{background-color: powderblue;
+font-family: Verdana, sans-serif;}
 
 h1   
-{color: blue;}
+{color: blue;
+font-family: 'Brush Script MT', cursive;}
 
 h2   
-{color: red;}
+{color: red;
+font-family: 'Courier New', monospace;}
 
-font
-{font-family: Verdana, sans-serif;}
 
 /* body {
     font-family: Gothic;
