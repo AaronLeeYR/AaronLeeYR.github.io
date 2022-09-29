@@ -12,6 +12,7 @@ font-family: 'Courier New', monospace;}
 
 .center
 {text-align: center;
+  font-size:50vw;
   margin: auto;
   width: 60%;}
 
