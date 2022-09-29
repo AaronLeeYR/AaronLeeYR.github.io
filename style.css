@@ -10,18 +10,9 @@ h2
 {color: red;
 font-family: 'Courier New', monospace;}
 
-.center
+.MainTitlecenter
 {text-align: center;
   font-size:4vw;
   margin: auto;
   width: 60%;}
 
-/* body {
-    font-family: Gothic;
-    background-color: skyblue;
-    padding: 20px
-  }
-
-  h1 {
-    color: #2800FF;
-  } */
